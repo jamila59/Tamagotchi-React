@@ -27,5 +27,5 @@ function handleNewTamagotchiFormSubmission(event) {
  NewTamagotchiForm.PropTypes = {
      onNewTamagotchiCreation: PropTypes.func
  };
-
+ 
  export default NewTamagotchiForm;
